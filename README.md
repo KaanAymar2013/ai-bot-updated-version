@@ -1,1 +1,2 @@
 # ai-bot-updated-version
+This bot is detect the famous rappers in global.You can detect 10 rappers in this bot this bot can useable in the discord too.And name of the all rappers in the bot are 2Pac XXXTENTACİON Central Cee Kendrick Lamar Juice World 50 Cent Slim Shady EMİNEM(Marshall Mathers) Travis Scott Kanye West.İf you want add your bot token then just add new file which names is bot_token.py after you add the file write token = "Your Token" thats it I hope you enjoy.
